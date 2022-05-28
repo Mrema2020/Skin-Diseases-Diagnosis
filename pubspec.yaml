@@ -32,7 +32,7 @@ dependencies:
   universal_platform: ^1.0.0+1
   provider: ^6.0.0
   image: ^3.0.2
-  tflite: ^1.1.2
+  tflite: 
   tflite_flutter: ^0.9.0
   image_picker: ^0.8.4
   comment_box: ^0.0.16
